@@ -1,0 +1,1 @@
+.is-loading { cursor:wait; opacity:.7; }.is-error { border-color:var(--rose); }.is-success { border-color:var(--green); }.is-disabled { opacity:.55; pointer-events:none; }
